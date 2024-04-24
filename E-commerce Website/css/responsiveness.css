@@ -1,0 +1,29 @@
+@media screen and (max-width:1120px){
+    .search{
+        padding: 10px;
+        display: flex;
+        justify-content: center;
+    }
+    .search input{
+        width: 42vw;
+        margin: 0px 25px 0px 25px;
+    }
+    nav{
+        flex-direction: column;
+    }
+    .logo{
+        height: 4vh;
+    }
+    nav ul{
+        justify-content: center;
+        height: 36px;
+    }
+    .slider img{
+        width: 100vw;
+    height: 153px;
+    }
+    .card-item img{
+        width: 126px;
+    }
+
+}
